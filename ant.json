@@ -1,0 +1,8 @@
+{
+  "balance": 50000,
+  "group": "Ant_001",
+  "mail_db": "Ant_001.txt",
+  "mail_user": "qq35@163.com",
+  "mail_pass": "1",
+  "mail_host": "imap.163.com"
+}
